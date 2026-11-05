@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ali%20Nawaz%20Channa&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Ali Nawaz Channa" />
 
+<img src="assets/profile.png" width="200" alt="Ali Nawaz Channa" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Digital+Creator+%7C+Blogger+%7C+Developer;Building+tiny+tools+people+actually+use;Website+designer+%26+theme+maker;From+Radhan+Station%2C+Sindh%2C+Pakistan)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=alinawazchanna&color=0ea5e9&style=flat-square)](https://github.com/alinawazchanna)
